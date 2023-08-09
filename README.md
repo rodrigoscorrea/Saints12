@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Olá, sou estudante de Ciência da Computação e apaixonado por tecnologia. Com foco em tecnologias para desenvolvimento web, buscando cada vez mais experiências
+## Olá, sou estudante de Ciência da Computação e apaixonado por tecnologia. Cada vez buscando mais experiências!
 
 
 # 💻 Tech Stack:
